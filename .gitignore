@@ -3,3 +3,5 @@ venv/
 **/*.html
 **/.DS_Store
 **/Notes
+**/*.csv
+
