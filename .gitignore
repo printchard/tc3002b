@@ -2,3 +2,4 @@ venv/
 **/*.pdf
 **/*.html
 **/.DS_Store
+**/Notes
